@@ -9,8 +9,11 @@ that builds knowledge from fundamentals → internals → kernel → production 
 📘 Why This Repo?
 
 To master Linux from zero to FAANG level
+
 To understand Linux internals used by Docker & Kubernetes
+
 To learn production debugging like SREs at Google, Uber, Nutanix
+
 To build a strong foundation for Kubernetes, cloud, DevOps, infra
 
 📂 Repository Structure
